@@ -21,19 +21,22 @@ sentences = [
 
 itchat.auto_login(qrCallback=send_qr_code, loginCallback=login_success, hotReload=True)
 
+
+toUserName =  '@@b75736b44727b142f8789ae3ac4eaab4babbef84b2f2bf85b14d1fc9532a1481'
+
 def sender(counter=0):
     if counter < len(sentences):
         if(sentences[counter]['type'] == 'string'):
-            itchat.send(sentences[counter]['content'], toUserName='filehelper')
+            itchat.send(sentences[counter]['content'], toUserName=toUserName)
         elif (sentences[counter]['type'] == 'image'):
-            itchat.send_image(sentences[counter]['content'], toUserName='filehelper')
+            itchat.send_image(sentences[counter]['content'], toUserName=toUserName)
         elif (sentences[counter]['type'] == 'video'):
-            itchat.send_video(sentences[counter]['content'], toUserName='filehelper')
+            itchat.send_video(sentences[counter]['content'], toUserName=toUserName)
         else:
             pass
         counter += 1
     else:
-        itchat.send('finish', toUserName='filehelper')
+        itchat.send('finish', toUserName=toUserName)
         return
     t = threading.Timer(1, sender, (counter,))
     t.start()

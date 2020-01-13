@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e9451b1-5d12-44d7-a6ac-ec77738ed859" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itchat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wechat.py" beforeDir="false" afterPath="$PROJECT_DIR$/wechat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,8 +114,23 @@
       <workItem from="1577294222252" duration="323000" />
       <workItem from="1577367714014" duration="2543000" />
       <workItem from="1578848174658" duration="4855000" />
-      <workItem from="1578926703437" duration="2515000" />
+      <workItem from="1578926703437" duration="3086000" />
     </task>
+    <task id="LOCAL-00001" summary="send image and video">
+      <created>1578929665494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578929665494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="send image and video">
+      <created>1578929676965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578929676965</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +149,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="send image and video" />
+    <option name="LAST_COMMIT_MESSAGE" value="send image and video" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1323" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577203063416">
       <screen x="67" y="27" width="2493" height="1053" />
@@ -152,30 +170,30 @@
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
     <state x="1669" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1577205782919" />
-    <state x="369" y="145" width="860" height="810" key="CommitChangelistDialog2" timestamp="1578929665358">
+    <state x="369" y="145" width="860" height="810" key="CommitChangelistDialog2" timestamp="1578929676871">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state x="369" y="145" width="860" height="810" key="CommitChangelistDialog2/67.27.2493.1053@67.27.2493.1053" timestamp="1578929665358" />
+    <state x="369" y="145" width="860" height="810" key="CommitChangelistDialog2/67.27.2493.1053@67.27.2493.1053" timestamp="1578929676871" />
     <state x="1468" y="302" width="501" height="513" key="FileChooserDialogImpl" timestamp="1578918944307">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
     <state x="1468" y="302" width="501" height="513" key="FileChooserDialogImpl/67.27.2493.1053@67.27.2493.1053" timestamp="1578918944307" />
-    <state width="1082" height="242" key="GridCell.Tab.0.bottom" timestamp="1578929606797">
+    <state width="1997" height="344" key="GridCell.Tab.0.bottom" timestamp="1578930144838">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1082" height="242" key="GridCell.Tab.0.bottom/67.27.2493.1053@67.27.2493.1053" timestamp="1578929606797" />
-    <state width="1082" height="242" key="GridCell.Tab.0.center" timestamp="1578929606796">
+    <state width="1997" height="344" key="GridCell.Tab.0.bottom/67.27.2493.1053@67.27.2493.1053" timestamp="1578930144838" />
+    <state width="1997" height="344" key="GridCell.Tab.0.center" timestamp="1578930144838">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1082" height="242" key="GridCell.Tab.0.center/67.27.2493.1053@67.27.2493.1053" timestamp="1578929606796" />
-    <state width="1082" height="242" key="GridCell.Tab.0.left" timestamp="1578929606796">
+    <state width="1997" height="344" key="GridCell.Tab.0.center/67.27.2493.1053@67.27.2493.1053" timestamp="1578930144838" />
+    <state width="1997" height="344" key="GridCell.Tab.0.left" timestamp="1578930144837">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1082" height="242" key="GridCell.Tab.0.left/67.27.2493.1053@67.27.2493.1053" timestamp="1578929606796" />
-    <state width="1082" height="242" key="GridCell.Tab.0.right" timestamp="1578929606797">
+    <state width="1997" height="344" key="GridCell.Tab.0.left/67.27.2493.1053@67.27.2493.1053" timestamp="1578930144837" />
+    <state width="1997" height="344" key="GridCell.Tab.0.right" timestamp="1578930144838">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1082" height="242" key="GridCell.Tab.0.right/67.27.2493.1053@67.27.2493.1053" timestamp="1578929606797" />
+    <state width="1997" height="344" key="GridCell.Tab.0.right/67.27.2493.1053@67.27.2493.1053" timestamp="1578930144838" />
     <state x="602" y="263" width="394" height="574" key="RollbackChangesDialog" timestamp="1578927148529">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
@@ -184,10 +202,10 @@
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
     <state x="1200" y="238" key="SettingsEditor/67.27.2493.1053@67.27.2493.1053" timestamp="1578852488470" />
-    <state x="403" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578852579560">
+    <state x="403" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578929681113">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state x="403" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.2493.1053@67.27.2493.1053" timestamp="1578852579560" />
+    <state x="403" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.2493.1053@67.27.2493.1053" timestamp="1578929681113" />
     <state x="652" y="245" width="460" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577369216395">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
@@ -211,7 +229,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wechat$wechat.coverage" NAME="wechat Coverage Results" MODIFIED="1577206113102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wechat_robot$wechat.coverage" NAME="wechat Coverage Results" MODIFIED="1578929606782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wechat_robot$wechat.coverage" NAME="wechat Coverage Results" MODIFIED="1578930144825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wechat$practice.coverage" NAME="practice Coverage Results" MODIFIED="1577369876840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wechat_robot$practice.coverage" NAME="practice Coverage Results" MODIFIED="1578930029182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
